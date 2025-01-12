@@ -40,6 +40,14 @@ header {
     margin-right: auto;
 }
 
+.header-3 {
+    justify-content: flex-start;
+}
+
+.header-3 .logo {
+    margin-left: auto;
+}
+
 .logo {
     cursor: pointer;
 }
